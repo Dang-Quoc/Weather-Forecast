@@ -2,7 +2,7 @@
 Weather Forecast App là một ứng dụng dự báo thời tiết cho phép người dùng theo dõi tình hình thời tiết theo thời gian thực ở bất kỳ địa điểm nào trên thế giới. Ứng dụng cung cấp thông tin thời tiết chi tiết, bao gồm nhiệt độ, độ ẩm, tốc độ gió, và dự báo trong nhiều ngày tiếp theo
 
 ## Link demo youtube
-https://weather-forecast-86fc4.web.app/
+https://youtu.be/SFY3Lx6ydBY
 
 ## Link deploy
 https://weather-forecast-86fc4.web.app
